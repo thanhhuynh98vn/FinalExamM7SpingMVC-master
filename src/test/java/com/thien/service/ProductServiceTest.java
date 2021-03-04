@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.thien.service;
+package com.thanh.service;
 
-import com.thien.entity.Products;
+import com.thanh.entity.Products;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
